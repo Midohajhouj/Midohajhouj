@@ -40,9 +40,7 @@
 
 ---
 
-### 🔋 GitHub Stats
-
-[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=tokyonight)](https://github.com/Midohajhouj)
+[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=tokyonight&cache_seconds=3600)](https://github.com/Midohajhouj)
 
 ---
 
