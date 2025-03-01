@@ -48,7 +48,7 @@
 
 ### 📊 Activity Metrics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=highcontrast)](https://github.com/Midohajhouj)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)](https://github.com/Midohajhouj)  
 
 ---
 
