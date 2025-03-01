@@ -46,7 +46,7 @@
 
 ### 📊 Activity Metrics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&cache_seconds=1)](https://github.com/Midohajhouj)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&cache_seconds=5)](https://github.com/Midohajhouj)  
 
 ---
 
