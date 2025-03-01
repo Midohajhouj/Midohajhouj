@@ -40,13 +40,13 @@
 
 ---
 
-[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=tokyonight&cache_seconds=30)](https://github.com/Midohajhouj)
+[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=tokyonight&cache_seconds=99990)](https://github.com/Midohajhouj)
 
 ---
 
 ### 📊 Activity Metrics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=github)](https://github.com/Midohajhouj)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=github&cache_seconds=30)](https://github.com/Midohajhouj)  
 
 ---
 
