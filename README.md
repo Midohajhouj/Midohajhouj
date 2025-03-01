@@ -42,18 +42,18 @@
 
 ### 📊 GitHub stats
 
-[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=merko)](https://github.com/Midohajhouj)
+[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast)](https://github.com/Midohajhouj)
 
 ---
 
 ### 📊 Activity Metrics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)](https://github.com/Midohajhouj)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=highcontrast)](https://github.com/Midohajhouj)  
 
 ---
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=merko&row=1&margin-w=10)](https://github.com/Midohajhouj)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=highcontrast&row=1&margin-w=10)](https://github.com/Midohajhouj)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
