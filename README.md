@@ -6,6 +6,12 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20views&color=0e75b6&style=flat" alt="Midohajhouj" /> </p>
+<a target="_blank" href="https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/"><img src="https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/sergio-s%C3%A1nchez-s%C3%A1nchez-662535b5/" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.instagram.com/dreamsoftware11/"><img src="https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sergiosanchezsanchez11/" alt="Instagram"></a>
+<a target="_blank" href="https://medium.com/@sanchezsanchezsergio418"><img src="https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sanchezsanchezsergio418" alt="Medium"></a>
+<a target="_blank" href="https://stackoverflow.com/users/5701248/sergio-s%c3%a1nchez-s%c3%a1nchez?tab=profile"><img src="https://img.shields.io/badge/-Stack_Overflow-5ce1e6?style=flat-square&logo=stackoverflow&logoColor=050a30&link=https://stackoverflow.com/users/5701248/sergio-s%c3%a1nchez-s%c3%a1nchez?tab=profile" alt="StackOverflow"></a>
+
+
 
 - 💻 Currently mastering the art of **web development** while pushing boundaries in **open-source innovation**.
 
