@@ -47,24 +47,24 @@
 
 ### 📊 GitHub stats
 
-[![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconds=1234)]
+![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconds=1234)
 
 ---
 
 ### 💳 Github Profile Summary Card
 	
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast" />
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast)
 
 ---
 
 ### 📊 Activity Metrics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)](https://github.com/Midohajhouj)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)]
 
 ---
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=highcontrast&row=1&margin-w=10)](https://github.com/Midohajhouj)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=highcontrast&row=1&margin-w=10)]
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
