@@ -53,7 +53,9 @@
 
 ### 💳 Github Profile Summary Card
 	
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=merko" />
+
+---
 
 ### 📊 Activity Metrics
 
