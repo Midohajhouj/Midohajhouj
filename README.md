@@ -53,15 +53,7 @@
 
 ### 💳 Github Profile Summary Card
 	
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=vue" />
-
-<p>
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
-</p>
-
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast" />
 
 ### 📊 Activity Metrics
 
