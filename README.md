@@ -51,7 +51,7 @@
 
 ---
 
-### 💳 Github Profile Summary Card
+### 💳 Github Summary Card
 	
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast)
 
