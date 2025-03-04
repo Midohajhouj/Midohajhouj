@@ -7,11 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20views&color=0e75b6&style=flat" alt="Midohajhouj" /> </p>
 
-<a target="_blank" href="https://www.linkedin.com/in/mehdi-hajhouj-07603b309/"><img src="https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/mehdi-hajhouj-07603b309/" alt="LinkedIn"></a>
 <a target="_blank" href="https://www.instagram.com/mehdi.hajhouj"><img src="https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mehdi.hajhouj" alt="Instagram"></a>
 <a target="_blank" href="https://facebook.com/Midohajhouj/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/Midohajhouj/" alt="Facebook"></a>
 <a target="_blank" href="https://youtube.com/@mehdihajhouj"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@mehdihajhouj" alt="YouTube"></a>
-
+<a target="_blank" href="https://www.linkedin.com/in/mehdi-hajhouj-07603b309/"><img src="https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/mehdi-hajhouj-07603b309/" alt="LinkedIn"></a>
 
 - 💻 Currently mastering the art of **web development** while pushing boundaries in **open-source innovation**.
 
@@ -49,6 +48,18 @@
 ### 📊 GitHub stats
 
 [![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconds=500)](https://github.com/Midohajhouj)
+
+---
+
+### 💳 Github Profile Summary Card
+	
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=vue" />
+
+<p>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=sergio11&show_icons=true&show=reviews&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio11&layout=compact&hide=Roff&langs_count=10&theme=dark" />
+</p>
 
 ---
 
