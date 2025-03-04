@@ -59,12 +59,12 @@
 
 ### 📊 Activity Metrics
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)]
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko)
 
 ---
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=highcontrast&row=1&margin-w=10)]
+![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=highcontrast&row=1&margin-w=10)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
