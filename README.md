@@ -20,7 +20,7 @@
 
 - 🤝 Open to collaborating on **groundbreaking web applications**, **streamlined automation**, and **community-focused tools**.
 
-- 📧 Feel free to reach out at **midohajhouj11@gmail.com**..
+- 📧 Feel free to reach out at **midohajhouj11@gmail.com**.
 
 ---
 
