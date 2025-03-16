@@ -63,9 +63,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=dark&row=1&margin-w=10)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
