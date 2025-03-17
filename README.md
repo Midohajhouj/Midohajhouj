@@ -8,6 +8,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20views&color=0e75b6&style=flat" alt="Midohajhouj" /> 
+  <img src="https://img.shields.io/github/followers/Midohajhouj?style=flat-square&color=blue" alt="Followers Badge">
 </p>
 
 <a target="_blank" href="https://facebook.com/Midohajhouj/">
@@ -85,17 +86,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Midohajhouj&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats">
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Badge">
-  <img src="https://img.shields.io/github/followers/Midohajhouj?style=flat-square&color=blue" alt="Followers Badge">
-  <img src="https://img.shields.io/github/stars/Midohajhouj?style=flat-square&color=yellow" alt="Stars Badge">
-</p>
-
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Fancy Footer">
