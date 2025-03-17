@@ -60,15 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats">
 </p>
 
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
-</p>
-
 ---
 
 ### 🔥 Streak Stats
@@ -79,11 +70,10 @@
 
 ---
 
-
-### 💡 Dynamic Quote
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
 </p>
 
 ---
