@@ -70,14 +70,6 @@
 
 ---
 
-### 📊 Summary Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast" alt="GitHub Summary Card">
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
