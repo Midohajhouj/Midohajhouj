@@ -56,9 +56,9 @@
 
 ### 📊 GitHub Stats
 
-
-  <p align="center">![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconde=2010)</p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&custom_title=Mido's%20Stats" alt="GitHub Stats">
+</p>
 
 ---
 
@@ -75,6 +75,27 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Midohajhouj&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats">
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views Badge">
+  <img src="https://img.shields.io/github/followers/Midohajhouj?style=flat-square&color=blue" alt="Followers Badge">
+  <img src="https://img.shields.io/github/stars/Midohajhouj?style=flat-square&color=yellow" alt="Stars Badge">
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Fancy Footer">
