@@ -9,6 +9,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Midohajhouj&label=Profile%20views&color=0e75b6&style=flat" alt="Midohajhouj" /> 
   <img src="https://img.shields.io/github/followers/Midohajhouj?style=flat-square&color=blue" alt="Followers Badge">
+   <img src="https://img.shields.io/github/stars/Midohajhouj?style=flat-square&color=yellow" alt="Stars Badge">
 </p>
 
 <a target="_blank" href="https://facebook.com/Midohajhouj/">
@@ -75,16 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Midohajhouj&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats">
 </p>
 
 <p align="center">
