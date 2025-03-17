@@ -74,7 +74,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=yeblu&hide_border=true" alt="Contribution Graph">
 </p>
 
 <p align="center">
