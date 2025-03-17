@@ -57,7 +57,8 @@
 ### 📊 GitHub Stats
 
 
-  ![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconde=2010)
+  <p align="center">![MIDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconde=2010)</p>
+
 
 ---
 
