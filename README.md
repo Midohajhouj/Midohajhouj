@@ -57,7 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats">
+  (https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=highcontrast&cache_seconde=2010)
 </p>
 
 ---
