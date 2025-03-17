@@ -70,15 +70,20 @@
 
 ---
 
+### 📊 Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Midohajhouj&theme=highcontrast" alt="GitHub Summary Card">
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=merko&hide_border=true" alt="Contribution Graph">
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Fancy Footer">
 </p>
-
