@@ -74,7 +74,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=darcula&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=solarized-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
 <p align="center">
