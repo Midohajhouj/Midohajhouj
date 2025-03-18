@@ -66,7 +66,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl&hide_title=true&hide_border=false&cache_seconds=86" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl&cache_seconds=86" alt="Streak Stats">
 </p>
 
 ---
