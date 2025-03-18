@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mido Hajhouj</h1>
+<h1 align="center">Hi 👋, I'm Mehdi Hajhouj</h1>
 
 <div align="center">
   <a href="https://github.com/Rez4-3yz/readme-typing-svg">
@@ -60,14 +60,6 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&cache_seconds=840&hide_title=true&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats">
  </p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl" alt="Streak Stats">
-</p>
 
 ---
 
