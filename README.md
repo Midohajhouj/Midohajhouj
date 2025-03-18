@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&&cache_seconds=8640&hide_title=true&hide_border=true&custom_title=Mido's%20Stats" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&&cache_seconds=8640&hide_title=true&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats">
  </p>
 
 ---
@@ -66,7 +66,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl&cache_seconds=8640&hide_title=true&hide_border=false" alt="Streak Stats">
 </p>
 
 ---
