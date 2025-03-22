@@ -63,7 +63,7 @@
 
 ---
 
-📈 GitHub Languages
+### 📈 GitHub Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midohajhouj&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages">
@@ -71,7 +71,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl&hide_border=false" alt="Streak Stats">
