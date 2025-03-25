@@ -71,14 +71,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midohajhouj&theme=nightowl&hide_border=false" alt="Streak Stats">
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
