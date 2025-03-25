@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&cache_seconds=196&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats">
  </p>
 
 ---
@@ -66,7 +66,7 @@
 ### 📈 GitHub Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midohajhouj&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midohajhouj&layout=compact&theme=nightowl&cache_seconds=1989&hide_border=false" alt="Top Languages">
 </p>
 
 ---
