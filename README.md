@@ -63,14 +63,6 @@
 
 ---
 
-### 📈 GitHub Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midohajhouj&layout=compact&theme=nightowl&cache_seconds=1989&hide_border=false" alt="Top Languages">
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
