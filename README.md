@@ -14,7 +14,7 @@
 <a target="_blank" href="https://facebook.com/Midohajhouj/">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/Midohajhouj/" alt="Facebook">
 </a>
-<a target="_blank" href="https://www.instagram.com/mehdi.hajhouj">
+<a target="_blank" href="https://www.instagram.com/mido.hajhouj?igsh=M2dzOXVweHIzaGpp">
   <img src="https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mehdi.hajhouj" alt="Instagram">
 </a>
 <a target="_blank" href="https://youtube.com/@mehdihajhouj">
