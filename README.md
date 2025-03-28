@@ -72,18 +72,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
-
----
-
-### 📜 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Fancy Footer">
