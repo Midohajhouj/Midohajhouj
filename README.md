@@ -73,7 +73,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&cache_seconds=20014&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <p align="center">
