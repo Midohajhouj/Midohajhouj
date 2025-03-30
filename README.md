@@ -57,7 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&cache_seconds=20874&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&cache_seconds=20874&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <p align="center">
