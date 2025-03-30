@@ -57,7 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats" />
+</p>
 
 ---
 
