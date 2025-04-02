@@ -35,7 +35,7 @@
 ---
 
 ### <p align="center"> 📊 Languages and Tools:
-<p align="center">
+<p align="center"
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="50" />
   </a>
@@ -51,7 +51,7 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="80" height="50" />
-  </a>
+  </a> >
 
 ---
 
