@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <p align="center"> 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Midohajhouj&show_icons=true&theme=nightowl&count_private=true&cache_seconds=20874&hide_title=false&hide_border=false&custom_title=MIDO's%20Stats" alt="GitHub Stats" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### <p align="center"> 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midohajhouj&theme=nightowl&hide_border=false" alt="Contribution Graph">
@@ -70,7 +70,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### <p align="center"> 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Midohajhouj&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
