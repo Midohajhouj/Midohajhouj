@@ -30,7 +30,7 @@
 - 🐍 Enthralled by the magic of **Python scripting** and **Bash automation**, always seeking ways to simplify complex workflows.
 - 🌟 Devoted to creating **transformative web solutions** that make a difference in the digital realm.
 - 🤝 Open to collaborating on **groundbreaking web applications**, **streamlined automation**, and **community-focused tools**.
-- 📧 Feel free to reach out at **midohajhouj11@gmail.com**.
+- 📧 I am a one-man-show,Feel free to reach out at **midohajhouj11@gmail.com**.
 
 ---
 
